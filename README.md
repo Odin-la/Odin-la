@@ -1,5 +1,15 @@
 ## Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odin-la)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odin-la)
+![trophy](https://github-profile-trophy.vercel.app/?username=Odin-la)
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
+<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Odin-la&left_color=green&right_color=red)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Odin-la)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Odin-la)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Odin-la)
+![](https://stats.justsong.cn/api/leetcode?username=Odin-la&cn=true)
 <!--
 **Odin-la/Odin-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
